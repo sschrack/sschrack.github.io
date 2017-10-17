@@ -1,3 +1,3 @@
 # [About Me](home.html)
 # [Classes](classes.html)
-# Standards
+# [Standards](standards.html)
