@@ -1,0 +1,11 @@
+# CEC Standards 
+### Standard 1: 
+### Standard 2:
+### Standard 3:
+### Standard 4:
+### Standard 5:
+### Standard 6:
+### Standard 7:
+### Standard 8:
+### Standard 9:
+### Standard 10:
