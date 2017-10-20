@@ -1,6 +1,7 @@
 
 ## Artifact
-Summary of Evaluation[Summary of Evaluation Student 4.docx]
+(Summary of Evaluation)[Summary of Evaluation Student 4.docx]
+
 **Summary of Evaluation:**
 
 The summary of evaluation was chosen as my artifact because I believe that it shows my ability to find the important information contained in an assessment. Student #4 needed help with his social skills, his coping skills, his communication skills, ways to include sensory into more activities, but his academics were appropriate for his grade level. This artifact also allows me to look at the foundations of this child’s challenging behavior. The assessments used (BASC-3, The Sensory Profile, Classroom Observations, Home Observations, and Parent Interview) showed he was unable to cope and self sooth in situations where he was frustrated. This is a skill that is normally learned in infancy if not by at least the age of 4 years old. His parents, teachers, and supportive staff all mentioned that at times he is unable to communicate (use expressive language) in a way to that allows him the supports he is needed. Through looking at the evaluations and their findings, I could see that sometimes language is the cause. When language is not the barrier, he may be more equipped to cope when provided with sensory input tools to allow him to calm down. 
