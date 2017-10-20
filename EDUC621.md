@@ -22,3 +22,4 @@ Outcome # 3 directly states that through this course students show proficiency i
 # Instructor Information
 EDUC 621: Classroom Management and Positive Behavior Practices
 Julie Harris 
+jalaberge@viterbo.edu
