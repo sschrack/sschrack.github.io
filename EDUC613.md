@@ -1,6 +1,6 @@
 
 ## Artifact
-(Summary of Evaluation)[Summary of Evaluation Student 4.docx]
+[Summary of Evaluation](Summary of Evaluation Student 4.docx)
 
 **Summary of Evaluation:**
 
