@@ -1,7 +1,7 @@
 	 
 # Artifact
 
-[Diversity Powerpoint](DiversityPPT.docx)
+[Diversity Powerpoint](DiversityPPT.pptx)
 
 # Professional Growth and Development
 
