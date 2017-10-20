@@ -1,4 +1,3 @@
-
 # Artifact
 
 [Diversity Powerpoint](DiversityPPT.pptx)
@@ -17,6 +16,7 @@ Contemplating that children’s expectations at home and at daycare are differen
 # Application of CEC Standards
 
 **Development and Characteristics of Learners:**
+
 Outcome # 3 directly states that through this course students show proficiency in “utilizing knowledge of human motivation and behavior drawn from the foundational sciences of psychology, anthropology and sociology to develop strategies for organizing and supporting individual and group work for CD, SLD, and EBD students in a cross-categorical or inclusive setting.” This to me was best shown through the readings, research, and links provided that gave information on PBIS (Positive Behavior Intervention Supports) and positive reinforcement. These are the two biggest topics that allowed me to dig deeper into how to positively motivate students. It showed me that there are many different types of motivation and that in order to positively motivate someone, you must find their main motivator. For younger children food and water are often the biggest motivator. As they get older, stickers and prizes can be a big motivator. Research has shown us that PBIS works in a school wide setting to reduce challenging behaviors when used in a meaningful way. If there is not meaning in it for the students the results will be different than what is expected. Each student learns and processes in a different way and I think it is our job as educators to help them find the best way to turn challenging behaviors into exceptional behaviors worth praising and showing off. 
 
 **Individual Learning Differences:**
