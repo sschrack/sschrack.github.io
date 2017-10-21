@@ -30,6 +30,8 @@ Outcome # 2 for this course directly states that students who take this course �
 Outcome # 4 directly states that students in this course “engages CD, SLD, and EBD students in individual and cooperative learning activities that help them develop motivation to achieve by relating lessons to personal interests, allowing choices of learning, leading students to ask questions and pursue problems that are meaningful to them.” I am not currently in a situation where I was able to implement and serve students who fall under these categories. However, I work with younger children who can use the same tools learned in this class to challenge then and help them become self-motivators in a classroom. The biggest part of all of this was talking with coworkers and those in areas that involved working with children who have challenging behaviors. I had the pleasure to discuss challenging behaviors with Sheila Warren from the Hudson School District and learn about interventions used with her Emotional Behavioral Disability students. After looking over some strategies that she used on a regular basis and reading about the different motivators that children had, I talked with my students to see what interested them. This was a lot of fun answers with Halloween right around the corner. It led my students to ask questions about the types of books we were reading and decide which types of projects they wanted to work on. I spent a week revolving what we learned about based on their interests. This helped them to solve their own problems and choose what they wanted to engage in within the classroom. 
 
 # Instructor Information
-EDUC 621: Classroom Management and Positive Behavior Practices
-Julie Harris 
+Instructor of EDUC 621: Classroom Management and Positive Behavior Practices
+
+Julie Harris
+
 jalaberge@viterbo.edu
