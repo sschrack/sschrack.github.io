@@ -1,6 +1,6 @@
 ## Artifact 
 
-[Summary of Evaluation]
+[Summary of Evaluation](sschrack.github.io/Summary of Evaluation Student 4.docx)
 
 [Sample EBD Report](sschrack.github.io/Sample EBD Report.pdf)
 
