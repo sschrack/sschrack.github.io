@@ -1,6 +1,7 @@
 ## Artifact 
 
 [Summary of Evaluation]
+
 [Sample EBD Report](sschrack.github.io/Sample EBD Report.pdf)
 
 **Summary of Evaluation:**
