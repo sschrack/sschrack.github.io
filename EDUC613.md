@@ -1,4 +1,3 @@
-
 ## Artifact
 [Summary of Evaluation](SummaryofEvaluationStudent4.docx)
 [Sample EBD Report](SampleEBDReport.docx) 
@@ -39,5 +38,7 @@ For example, one of the students in my room was unable to keep her hands to hers
 
 ## Instructor Information
 Instructor of EDUC 613: Introduction to Individual Education Assessment
+
 Susan Ausavich
+
 smausavich@viterbo.edu 
