@@ -1,6 +1,4 @@
-## Artifact
-[Summary of Evaluation](SummaryofEvaluationStudent4.docx)
-[Sample EBD Report](SampleEBDReport.docx) 
+## Artifact 
 
 **Summary of Evaluation:**
 
