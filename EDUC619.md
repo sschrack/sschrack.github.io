@@ -1,8 +1,10 @@
-##Artifact
+## Artifact
+
+Community Agencies Handbook
 
 I chose to use the Community Agencies Handbook assignment as my artifact for this class. It was chosen to show that there are many agencies and people in my area to reach out to in order to provide a student with a successful and beneficial transition plan. Not only do these agencies provide services for adults with exceptionalities, but they are able to provide a wide variety of people with similar services. This artifact shows that I am willing and able to find information necessary to contact people outside of the school district to help my students. No matter the route a student chooses to follow; school, employment, a variety of living situations, I am determined to help them to help themselves outside of high school. 
 
-##Professional Growth and Development
+## Professional Growth and Development
 
 I currently work in the early childhood field and that is where I hope to continue my journey with special education added in one day. With that being said, I was unsure how to switch the way I think and my overall mindset for this specific class. I believe it is important to be a well-rounded teaching professional, and knowing the whole process from start to finish in the special education program was something I wanted to be able to do. However, my brain took a while to adjust to think about high schoolers and transitioning out into the community or further education.
 
@@ -10,11 +12,11 @@ Around week three my brain started to process this information a little bit bett
 
 In the end I still feel I have a long way to go to fully understand the transition from school to community. I am confident that with the resources I have been provided and found on my own through this class I am well on my way to understanding the process. I think it is great that there are so many tools available to help students and professionals when looking ahead to write a PTP!
 
-##Student Learning
+## Student Learning
 
 As I stated earlier, I am in the early childhood field, so I was unable to use this class to further my current knowledge or enhance any PTP’s in my case load. But as a student in the graduate program, I feel this class has taught me a lot. Learning about postsecondary transition plans and how to write them was helpful in seeing why basic skills taught in the elementary age level are important to have mastered prior to high school. This way the functional skills taught at the high school level can focus on daily chores, life skills, social skills, and making a daily routine after high school. I also learned from the text and examples provided by peers how to write, teach, and revise a lesson plan for students with exceptionalities. Through many discussions, a parent interview, and reading about family involvement from the transition toolkit I was able to see more and more why collaboration is key to a successful IEP and PTP. Both require a cohesive unit while writing. The parents, school, agencies, student, and teachers involved in these teams need to be on the same page in order to provide the student the best care and plan to fit their learning style. The transition toolkit had a lot of supporting evidence and research to explain why family involvement is so important academically for any child. The biggest part I took away from the research was, “A number of research studies, literature reviews, and program evaluations have linked family involvement and support to positive outcomes for youth with and without disabilities (Henderson & Berla, 1994; Henderson & Mapp, 2002; Hughes et al., 1997; James & Partee, 2003; Keith et al., 1998; Kohler, 1996; Sanders, Epstein, & Connors-Tadros, 1999; Shaver & Walls, 1998; Simon, 2001; Yap & Enoki, 1994). These outcomes include improved achievement test results, decreased risk of dropout, improved attendance, improved student behavior, higher grades, higher grade point average, greater commitment to schoolwork, and improved attitude toward school. Some studies have found that characteristics of family involvement are correlated with social, racial/ethnic, and economic variables (Catsambis & Garland, 1997; Harry, 2002; Kalyanpur, Harry, & Skrtic, 2000; Lamorey, 2002; Muller & Kerbow, 1993).”
 
-##Application of CEC Standards
+## Application of CEC Standards
 
 **1.0 Beginning special education professionals understand how exceptionalities may interact with development and learning and use this knowledge to provide meaningful and challenging learning experiences for individuals with exceptionalities.**
 
@@ -26,7 +28,7 @@ Outcome number four states that students will be able to demonstrate the ability
 
 **7.0 Beginning special education professionals collaborate with families, other educators, related service providers, individuals with exceptionalities, and personnel from community agencies in culturally responsive ways to address the needs of individuals with exceptionalities across a range of learning experiences.**
 
-##Instructor Information
+## Instructor Information
 
 Patrick Godar
 
