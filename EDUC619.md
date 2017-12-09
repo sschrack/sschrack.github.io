@@ -1,6 +1,6 @@
 ## Artifact
 
-Community Agencies Handbook
+[Community Agencies Handbook](sschrack.github.io/Community Agencies Handbook.docx)
 
 I chose to use the Community Agencies Handbook assignment as my artifact for this class. It was chosen to show that there are many agencies and people in my area to reach out to in order to provide a student with a successful and beneficial transition plan. Not only do these agencies provide services for adults with exceptionalities, but they are able to provide a wide variety of people with similar services. This artifact shows that I am willing and able to find information necessary to contact people outside of the school district to help my students. No matter the route a student chooses to follow; school, employment, a variety of living situations, I am determined to help them to help themselves outside of high school. 
 
