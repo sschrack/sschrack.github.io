@@ -1,3 +1,4 @@
+
 ## Artifact
 
 [Community Agencies Handbook](sschrack.github.io/Community Agencies Handbook.docx)
@@ -6,7 +7,7 @@ I chose to use the Community Agencies Handbook assignment as my artifact for thi
 
 ## Professional Growth and Development
 
-I currently work in the early childhood field and that is where I hope to continue my journey with special education added in one day. With that being said, I was unsure how to switch the way I think and my overall mindset for this specific class. I believe it is important to be a well-rounded teaching professional, and knowing the whole process from start to finish in the special education program was something I wanted to be able to do. However, my brain took a while to adjust to think about high schoolers and transitioning out into the community or further education.
+I currently work in the early childhood field and that is where I hope to continue my journey with special education added in one day. With that being said, I was unsure how to switch the way I think and my overall mindset for this specific class. I believe it i important to be a well-rounded teaching professional, and knowing the whole process from start to finish in the special education program was something I wanted to be able to do. However, my brain took a while to adjust to think about high schoolers and transitioning out into the community or further education.
 
 Around week three my brain started to process this information a little bit better, and granted I am still in the learning process I feel that I gained some valuable information. To me learning that academic and functional goals are not on the same program once you reach high school was astounding. Individual Education Programs (IEP) focus mainly on academic skills and Postsecondary Transition Plans (PTP) mainly focus on functional skills necessary to support individual living and goals to accommodate life after high school was fun. I never thought that teaching someone how to do laundry or dishes was so important and now I understand why it is. All this information and reading from the text helped me to understand the importance of task analysis and learning styles in the older age groups.
 
@@ -27,6 +28,8 @@ Outcome number one states that students who complete this course should demonstr
 Outcome number four states that students will be able to demonstrate the ability to “evaluate student progress and performance in order to modify teaching and learning strategies”, upon completion of this course. I believe that this class outcome meets standard three because it uses a progress tracking system to identify what will best help a student continue to learn in the curriculum provided to them. In week one I created a parent letter, and if it were for a high school classroom it would list opening doors as the main curriculum used when planning and teaching for transition. This would also include some class lessons that could be worked on at home as well. Functional skills such as small tasks to do around the house, expanding their chore list, and asking for assistance while cooking is very important to help encourage independence. 
 
 **7.0 Beginning special education professionals collaborate with families, other educators, related service providers, individuals with exceptionalities, and personnel from community agencies in culturally responsive ways to address the needs of individuals with exceptionalities across a range of learning experiences.**
+
+This course meets outcome nine which states that students are able to demonstrate that they "Understand substantive and procedural compliance and best practice for transition planning." This meets standard seven through learning about the importance of family involvement in all IEP meeting and PTP meetings. Through inclusion of parents in the academic environment, students with and without special needs have shown a higher rate of success academically and socially. In this class I wrote a parent letter, conducted a parent interview, and read the research that supported family involvement in planning and academics. The community agencies handbook helps to show that reaching out is possible in my area and that I have a wide variety of options to provide families during the planning process as well as colleagues looking for assistance. 
 
 ## Instructor Information
 
