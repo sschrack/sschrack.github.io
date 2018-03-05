@@ -1,15 +1,15 @@
 # CEC Standards 
 
-### Standard 1: LEARNER DEVELOPMENT AND INDIVIDUAL LEARNING DIFFERENCES
+## Standard 1: LEARNER DEVELOPMENT AND INDIVIDUAL LEARNING DIFFERENCES
 Beginning special education professionals understand how exceptionalities may interact with development and learning and use this knowledge to provide meaningful and challenging learning experiences for individuals with exceptionalities.
 
-**Associated Classes: 
+### Associated Classes: 
 [EDUC 613](EDUC613.md), [EDUC 619](EDUC619.md), [EDUC 621](EDUC621.md)
 
 ### Standard 2: LEARNING ENVIRONMENTS
 Beginning special education professionals create safe, inclusive, culturally responsive learning environments so that individuals with exceptionalities become active and effective learners and develop emotional well being, positive social interactions, and self-determination.
 
-**Associated Classes: 
+** Associated Classes: 
 
 ### Standard 3: CURRICULAR CONTENT KNOWLEDGE
 Beginning special education professionals use knowledge of general and specialized curricula to individualize learning for individuals with exceptionalities.
