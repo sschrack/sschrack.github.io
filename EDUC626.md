@@ -8,6 +8,14 @@
 ## Application of CEC Standards
 [CEC STANDARDS](standards.md)
 
+**Learning Environments:
+
+**Instructional Planning and Strategies
+
+**Professional Learning and Ethical Practice
+
+**Collaboration
+
 ## Instructor Information
 
 Tara Schmitz
