@@ -1,5 +1,5 @@
 ## Artifact
-[sschrack.github.io/Progression of Inclusion Timeline Activity.pptx](Progression of Inclusion Timeline Activity.pptx) 
+[Progression of Inclusion Timeline Activity](Progression of Inclusion Timeline Activity.pptx) 
 
 ## Professional Growth and Development
 
