@@ -1,7 +1,12 @@
-##Artifact##
-##Professional Growth and Development##
-##Student Learning##
-##Application of CEC Standards##
-##Instructor Information##
+##Artifact
+
+##Professional Growth and Development
+
+##Student Learning
+
+##Application of CEC Standards
+
+##Instructor Information
+
 Tara Schmitz
 tjschmitz@viterbo.edu
