@@ -19,11 +19,11 @@ Contemplating that children’s expectations at home and at daycare are differen
 # Application of CEC Standards
 [CEC STANDARDS](standards.md)
 
-**Development and Characteristics of Learners:**
+**Learner Development and Individual Learner Differences:**
 
 Outcome # 3 directly states that through this course students show proficiency in “utilizing knowledge of human motivation and behavior drawn from the foundational sciences of psychology, anthropology and sociology to develop strategies for organizing and supporting individual and group work for CD, SLD, and EBD students in a cross-categorical or inclusive setting.” This to me was best shown through the readings, research, and links provided that gave information on PBIS (Positive Behavior Intervention Supports) and positive reinforcement. These are the two biggest topics that allowed me to dig deeper into how to positively motivate students. It showed me that there are many different types of motivation and that in order to positively motivate someone, you must find their main motivator. For younger children food and water are often the biggest motivator. As they get older, stickers and prizes can be a big motivator. Research has shown us that PBIS works in a school wide setting to reduce challenging behaviors when used in a meaningful way. If there is not meaning in it for the students the results will be different than what is expected. Each student learns and processes in a different way and I think it is our job as educators to help them find the best way to turn challenging behaviors into exceptional behaviors worth praising and showing off. 
 
-**Individual Learning Differences:**
+**Instructional Planning and Strategies:**
 
 Outcome # 2 for this course directly states that students who take this course “know how to use instructional strategies that promote student learning for a wide range of CD, SLD, and EBD student abilities.” This outcome can best be shown through the research on evidence based practices. We were told to choose three to briefly discuss and of those three choose one to go into further detail. I think that this shows different instructional strategies because the EBP’s allowed me to learn about Social Skills Training, Picture Exchange Communication (PECS), Self-Management (SM), and Task Analysis (TA). Of these different strategies I decided to learn more about social skills training. It was different to think that the students who were not on the autism spectrum were the ones learning the skill first and helping the other child to generalize the skill. They met with the teacher in charge to learn how best to train the student with autism on the new skill they were expected to show. 
 
@@ -32,8 +32,7 @@ Outcome # 2 for this course directly states that students who take this course �
 Outcome # 4 directly states that students in this course “engages CD, SLD, and EBD students in individual and cooperative learning activities that help them develop motivation to achieve by relating lessons to personal interests, allowing choices of learning, leading students to ask questions and pursue problems that are meaningful to them.” I am not currently in a situation where I was able to implement and serve students who fall under these categories. However, I work with younger children who can use the same tools learned in this class to challenge then and help them become self-motivators in a classroom. The biggest part of all of this was talking with coworkers and those in areas that involved working with children who have challenging behaviors. I had the pleasure to discuss challenging behaviors with Sheila Warren from the Hudson School District and learn about interventions used with her Emotional Behavioral Disability students. After looking over some strategies that she used on a regular basis and reading about the different motivators that children had, I talked with my students to see what interested them. This was a lot of fun answers with Halloween right around the corner. It led my students to ask questions about the types of books we were reading and decide which types of projects they wanted to work on. I spent a week revolving what we learned about based on their interests. This helped them to solve their own problems and choose what they wanted to engage in within the classroom. 
 
 # Instructor Information
-Instructor of EDUC 621: Classroom Management and Positive Behavior Practices
 
 Julie Harris
 
-jalaberge@viterbo.edu
+[jalaberge@viterbo.edu](jalaberge@viterbo.edu)
