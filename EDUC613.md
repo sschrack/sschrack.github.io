@@ -18,7 +18,7 @@ As a future special education teacher, I believe it is important to be able to d
 
 The specific outcomes of this artifact were to show an ability to decipher what to focus on when evaluations of a child have been completed in order to best meet their needs at their level. This artifact, along with the sample evaluation that I got my information from gave many areas of possible deficit. Through further examination, it was easier to tell where the behaviors derived. The evaluation showed that he was eligible for Emotional Behavior Disability supports, but also that he seeks to add sensory input into every experience. To me, this showed that it was necessary for him to have such inputs while learning the skills he needs to cope with frustration.  
 
-## Impact on PK-12 Student Learner
+## Student Learning
 
 This course provided students in my class a chance to really look at the source of their behaviors. Learning about different assessments allowed me to dig deeper into the function of their behaviors and delays that I was previously concerned about. With the background knowledge necessary to understand the child, my co-teacher and I were able to assess the children better. 
 
