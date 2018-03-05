@@ -8,7 +8,7 @@
 ## Application of CEC Standards
 [CEC STANDARDS](standards.md)
 
-**Learning Environments:
+** Learning Environments:
 
 **Instructional Planning and Strategies
 
