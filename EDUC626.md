@@ -10,11 +10,11 @@
 
 ### Learning Environments:
 
-### Instructional Planning and Strategies
+### Instructional Planning and Strategies:
 
-### Professional Learning and Ethical Practice
+### Professional Learning and Ethical Practice:
 
-### Collaboration
+### Collaboration:
 
 ## Instructor Information
 
