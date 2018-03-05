@@ -11,4 +11,4 @@
 
 Tara Schmitz
 
-tjschmitz@viterbo.edu
+[tjschmitz@viterbo.edu](tjschmitz@viterbo.edu)
