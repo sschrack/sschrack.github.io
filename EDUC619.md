@@ -19,15 +19,15 @@ As I stated earlier, I am in the early childhood field, so I was unable to use t
 ## Application of CEC Standards
 [CEC STANDARDS](standards.md)
 
-**1.0 Beginning special education professionals understand how exceptionalities may interact with development and learning and use this knowledge to provide meaningful and challenging learning experiences for individuals with exceptionalities.**
+**Learner Development and Individual Learning Differences:**
 
 Outcome number one states that students who complete this course should demonstrate that he/she, “engages students who have been identified for special education services in individual and cooperative learning activities.” I believe that this outcome meets this standard through our discussion on sample lesson plans in week six. Using the opening doors curriculum to create a lesson as well as choosing a functional goal to reflect on describes ways that we were encouraged to engage students. The opening doors curriculum focused on different ways to help students to decide what they want in the future. Looking through the sample functional goals from our text I was able to get a better understanding of how a goal should be written and completed to help engage a student in different activities from home living to community interaction. Through the parent interview we were given the opportunity as professionals to ask a parent about their child outside of an IEP or conference situation. This in my eyes shows that we can ask parents what they see in their child and what challenges they have already overcome. After having that conversation, we are able as professionals to guide what types of challenging learning experiences we can provide to best assist the student in future learning. 
 
-**3.0 Beginning special education professionals use knowledge of general and specialized curricula to individualize learning for individuals with exceptionalities.**
+**Curricular Content Knowledge:**
 	
 Outcome number four states that students will be able to demonstrate the ability to “evaluate student progress and performance in order to modify teaching and learning strategies”, upon completion of this course. I believe that this class outcome meets standard three because it uses a progress tracking system to identify what will best help a student continue to learn in the curriculum provided to them. In week one I created a parent letter, and if it were for a high school classroom it would list opening doors as the main curriculum used when planning and teaching for transition. This would also include some class lessons that could be worked on at home as well. Functional skills such as small tasks to do around the house, expanding their chore list, and asking for assistance while cooking is very important to help encourage independence. 
 
-**7.0 Beginning special education professionals collaborate with families, other educators, related service providers, individuals with exceptionalities, and personnel from community agencies in culturally responsive ways to address the needs of individuals with exceptionalities across a range of learning experiences.**
+**Collaboration:**
 
 This course meets outcome nine which states that students are able to demonstrate that they "Understand substantive and procedural compliance and best practice for transition planning." This meets standard seven through learning about the importance of family involvement in all IEP meeting and PTP meetings. Through inclusion of parents in the academic environment, students with and without special needs have shown a higher rate of success academically and socially. In this class I wrote a parent letter, conducted a parent interview, and read the research that supported family involvement in planning and academics. The community agencies handbook helps to show that reaching out is possible in my area and that I have a wide variety of options to provide families during the planning process as well as colleagues looking for assistance. 
 
@@ -35,4 +35,4 @@ This course meets outcome nine which states that students are able to demonstrat
 
 Patrick Godar
 
-pggodar@viterbo.edu 
+[pggodar@viterbo.edu](pggodar@viterbo.edu) 
