@@ -6,6 +6,7 @@
 ## Student Learning
 
 ## Application of CEC Standards
+[CEC STANDARDS](standards.md)
 
 ## Instructor Information
 
