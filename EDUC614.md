@@ -9,3 +9,7 @@
 [CEC STANDARDS](standards.md)
 
 ## Instructor Information
+
+ Jeannette Armstrong
+ 
+ [jearmstrong@viterbo.edu](jearmstrong@viterbo.edu) 
