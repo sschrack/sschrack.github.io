@@ -1,9 +1,11 @@
-##Artifact
+## Artifact
 
-##Professional Growth and Development
+## Professional Growth and Development
 
-##Student Learning
+## Student Learning
 
-##CEC Standards
+## CEC Standards
 
-##Instructor Information
+[CEC STANDARDS](standards.md)
+
+## Instructor Information
