@@ -20,8 +20,6 @@
 
 **Collaboration**
 
-**Instructional Planning and Strategies**
-
 ## Instructor Information
 
  Jeannette Armstrong
