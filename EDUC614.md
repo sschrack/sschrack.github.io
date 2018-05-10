@@ -12,9 +12,15 @@
 
 [CEC STANDARDS](standards.md)
 
-*Assessment
+**Assessment**
 
-*Learner Development and Individual Learner Differences
+**Learner Development and Individual Learner Differences**
+
+**Professional Learning and Ethical Practices**
+
+**Collaboration**
+
+**Instructional Planning and Strategies**
 
 ## Instructor Information
 
