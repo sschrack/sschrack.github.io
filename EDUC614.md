@@ -25,9 +25,15 @@ Learning new information and continuing to search for research based practices i
 
 **Assessment**
 
+According to outcome number two in the syllabus, professionals will develop communication, collaboration and intervention skills to accomplish their work is met through the assessment standard because it helps those who took the class write and Individual Education Program. Through the discussion forums and writing different items for creating an IEP, I feel that this outcome has been met through the assessment standard. Assessment is an important part of writing an IEP, but using communication and intervention skills is necessary for this standard to be met with accuracy. 
+
 **Learner Development and Individual Learner Differences**
 
+Outcome number three clearly states that education professionals will develop professional dispositions of inquiry, collaboration, problem-solving, advocacy and continuous improvement. In my opinion this outcome is met through the learner development and individual learner differences standard because students are not the only ones who learn and develop differently. As a future teacher I hope that I can create an environment to help other education professionals improve upon their knowledge of differing skills and student talents. If we cannot strive to learn new things each day, then my job is not worth doing because I am a strong believer in the ability to learn something new each day. 
+
 **Collaboration**
+
+Outcome number five states that professionals connect theory, practice, and research to inform educational decisions and foster inclusive learning environments that support diverse learners. Without collaboration finding different theories, practices, and research would not be possible. This class has shown me through the forums that it all depends on what you are looking for and your perspective when researching, that is why collaboration is so important in researching. Without the background knowledge attained through research, practice, and theory fostering inclusive learning environments would not be possible. 
 
 ## Instructor Information
 
