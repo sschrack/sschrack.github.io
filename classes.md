@@ -5,4 +5,4 @@
 * Community and Transition [EDUC 619](EDUC619.html)
 * Classroom Management and Positive Behavior Practices [EDUC 621](EDUC621.html)
 * Inclusive Classroom Strategies [EDUC 626](EDUC626.html) 
-* Teaching Students with Intellectual Disabilities [EDUC 627](sschrack.github.io/EDUC627.html) 
+* Teaching Students with Intellectual Disabilities [EDUC 627](EDUC627.html) 
