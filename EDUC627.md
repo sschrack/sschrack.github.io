@@ -2,7 +2,7 @@
 
 ## Artifact 
 
-[Intellectual Disabilities Presentation]
+[Intellectual Disabilities Presentation](intellectualdisabilities.pptx) 
 
 **Intellectual Disabilities Presentation**
 
