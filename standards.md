@@ -4,7 +4,7 @@
 Beginning special education professionals understand how exceptionalities may interact with development and learning and use this knowledge to provide meaningful and challenging learning experiences for individuals with exceptionalities.
 
 ### Associated Classes: 
-[EDUC 613](EDUC613.md), [EDUC 619](EDUC619.md), [EDUC 621](EDUC621.md)
+[EDUC 613](EDUC613.md), [EDUC 619](EDUC619.md), [EDUC 621](EDUC621.md), [EDUC 627](EDUC627.md) 
 
 ## Standard 2: LEARNING ENVIRONMENTS
 Beginning special education professionals create safe, inclusive, culturally responsive learning environments so that individuals with exceptionalities become active and effective learners and develop emotional well being, positive social interactions, and self-determination.
@@ -16,7 +16,7 @@ Beginning special education professionals use knowledge of general and specializ
 
 ### Associated Classes:
 
-[EDUC 619](EDUC619.md)
+[EDUC 619](EDUC619.md), [EDUC 627](EDUC627.md) 
 
 ## Standard 4: ASSESSMENT
 Beginning special education professionals use multiple methods of assessment and data sources in making educational decisions.
@@ -30,7 +30,7 @@ Beginning special education professionals select, adapt, and use a repertoire of
 
 ### Associated Classes:
 
-[EDUC 621](EDUC621.md)
+[EDUC 621](EDUC621.md), [EDUC 627](EDUC627.md)
 
 ## Standard 6: PROFESSIONAL LEARNING AND ETHICAL PRACTICE
 Beginning special education professionals use foundational knowledge of the field and their professional ethical principles and practice standards to inform special education practice, to engage in lifelong learning, and to advance the profession. 
