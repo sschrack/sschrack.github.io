@@ -20,7 +20,11 @@ The greatest thing I learned from this course was about intellectual disabilitie
 
 ## Application of CEC Standards
 
+**Standard 5: INSTRUCTIONAL PLANNING AND STRATEGIES**
 
+**Standard 3: CURRICULAR CONTENT KNOWLEDGE**
+
+**Standard 1: LEARNER DEVELOPMENT AND INDIVIDUAL LEARNING DIFFERENCES**
 
 ## Instructor Information
 
